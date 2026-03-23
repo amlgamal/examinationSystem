@@ -93,7 +93,6 @@ A full-stack web-based examination system built as a college team project. The p
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/examination-system.git
 
 # Navigate to the project
 cd examination-system
